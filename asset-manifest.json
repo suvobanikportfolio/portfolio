@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/suvobanikportfolio/portfolio/static/css/main.531b251d.css",
-    "main.js": "/suvobanikportfolio/portfolio/static/js/main.d1572e1d.js",
+    "main.js": "/suvobanikportfolio/portfolio/static/js/main.dcb6e9c1.js",
     "static/media/Header-Background.png": "/suvobanikportfolio/portfolio/static/media/Header-Background.2622d5d1af52d23554a1.png",
     "static/media/project-1.png": "/suvobanikportfolio/portfolio/static/media/project-1.5131d8a59d19aa3d4ba3.png",
     "static/media/2.png": "/suvobanikportfolio/portfolio/static/media/2.b48ee2dd771b1f1c70bd.png",
@@ -17,10 +17,10 @@
     "static/media/Awards.txt": "/suvobanikportfolio/portfolio/static/media/Awards.8ae60f8ccd17881c9187.txt",
     "static/media/Academics.txt": "/suvobanikportfolio/portfolio/static/media/Academics.2ac8f357cef318790546.txt",
     "main.531b251d.css.map": "/suvobanikportfolio/portfolio/static/css/main.531b251d.css.map",
-    "main.d1572e1d.js.map": "/suvobanikportfolio/portfolio/static/js/main.d1572e1d.js.map"
+    "main.dcb6e9c1.js.map": "/suvobanikportfolio/portfolio/static/js/main.dcb6e9c1.js.map"
   },
   "entrypoints": [
     "static/css/main.531b251d.css",
-    "static/js/main.d1572e1d.js"
+    "static/js/main.dcb6e9c1.js"
   ]
 }
