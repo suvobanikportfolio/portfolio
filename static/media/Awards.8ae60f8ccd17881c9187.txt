@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "Award for Graduate Research (AGR), University of Illinois at Chicago.(2023)"
+  },
+
+
+{
+    "id": "2",
+    "name": "Graduate Student Award, Materials Research Society (MRS)   (2023)"
+  }
+,
+{
+    "id": "3",
+    "name": "Chicago Consular Corps (CCC) award.  (2023)"
+
+  },
+
+{
+    "id": "4",
+    "name": "Best presentation award at Materials Research Society (MRS) conference, Hawaii. (2022)"
+
+  },
+
+{
+    "id": "5",
+    "name": "Student presenter award, University of Illinois at Chicago. (2022)"
+  },
+
+{
+    "id": "6",
+    "name": "GSC, Graduate student travel award, University of Illinois at Chicago. (2022)"
+  
+  },
+
+{
+    "id": "7",
+    "name": "Session chair Symposium CH04.03 & CH04.04, Materials Research Society (MRS), Boston. (2021)"
+   
+  },
+
+{
+    "id": "8",
+    "name": "University gold medal for academic excellence, Jadavpur University.   (2018)"}
+  
+
+]
+

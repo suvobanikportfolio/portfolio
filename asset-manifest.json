@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/suvobanikportfolio/portfolio/static/css/main.531b251d.css",
+    "main.js": "/suvobanikportfolio/portfolio/static/js/main.d1572e1d.js",
+    "static/media/Header-Background.png": "/suvobanikportfolio/portfolio/static/media/Header-Background.2622d5d1af52d23554a1.png",
+    "static/media/project-1.png": "/suvobanikportfolio/portfolio/static/media/project-1.5131d8a59d19aa3d4ba3.png",
+    "static/media/2.png": "/suvobanikportfolio/portfolio/static/media/2.b48ee2dd771b1f1c70bd.png",
+    "static/media/1.png": "/suvobanikportfolio/portfolio/static/media/1.000420ac2dbb95bcc5eb.png",
+    "static/media/cv.pdf": "/suvobanikportfolio/portfolio/static/media/cv.51950acade7a4f963c25.pdf",
+    "static/media/Cv.png": "/suvobanikportfolio/portfolio/static/media/Cv.61c4164d0216b7a5bdd1.png",
+    "static/media/axios.cjs": "/suvobanikportfolio/portfolio/static/media/axios.fd4c4f566977eb864801.cjs",
+    "static/media/Profile.jpg": "/suvobanikportfolio/portfolio/static/media/Profile.9a865bc780d39ee7f6be.jpg",
+    "static/media/export-data.txt": "/suvobanikportfolio/portfolio/static/media/export-data.4a93d4b00c8944190a32.txt",
+    "static/media/projects.txt": "/suvobanikportfolio/portfolio/static/media/projects.01b257f0d334333f24c3.txt",
+    "static/media/Experience.txt": "/suvobanikportfolio/portfolio/static/media/Experience.a1b179b8114087e8d088.txt",
+    "index.html": "/suvobanikportfolio/portfolio/index.html",
+    "static/media/Awards.txt": "/suvobanikportfolio/portfolio/static/media/Awards.8ae60f8ccd17881c9187.txt",
+    "static/media/Academics.txt": "/suvobanikportfolio/portfolio/static/media/Academics.2ac8f357cef318790546.txt",
+    "main.531b251d.css.map": "/suvobanikportfolio/portfolio/static/css/main.531b251d.css.map",
+    "main.d1572e1d.js.map": "/suvobanikportfolio/portfolio/static/js/main.d1572e1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531b251d.css",
+    "static/js/main.d1572e1d.js"
+  ]
+}

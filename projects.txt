@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "Heading": "Design of Metastable Phases",
+    "Description": "A general computational package to predict the metastable phase of inorganic materials using the concepts of machine learning, electronic structure methods, and atomistic potentials. The long-term goal of this package is to provide elemental composition as input (e.g. B, HfO2, or Al0.2Cu0.8) and output a set of potential metastable phases, their properties, and their plausible conditions of stability (pressure, temperature, strain profile, etc.).",
+    "link": "www.google.com",
+    "image": "./project-1.png"
+  },
+
+
+  {
+    "id": "2",
+    "Heading": "Depolymerizable Polymers",
+    "Description": "A general computational package to predict the metastable phase of inorganic materials using the concepts of machine learning, electronic structure methods, and atomistic potentials. The long-term goal of this package is to provide elemental composition as input (e.g. B, HfO2, or Al0.2Cu0.8) and output a set of potential metastable phases, their properties, and their plausible conditions of stability (pressure, temperature, strain profile, etc.).",
+    "link": "www.google.com",
+    "image": "./project-2.png"
+  },
+
+
+  {
+    "id": "3",
+    "Heading": "Depolymerizable Polymers",
+    "Description": "A general computational package to predict the metastable phase of inorganic materials using the concepts of machine learning, electronic structure methods, and atomistic potentials. The long-term goal of this package is to provide elemental composition as input (e.g. B, HfO2, or Al0.2Cu0.8) and output a set of potential metastable phases, their properties, and their plausible conditions of stability (pressure, temperature, strain profile, etc.).",
+    "link": "www.google.com",
+    "image": "./project-2.png"
+  },
+
+
+
+
+  {
+    "id": "4",
+    "Heading": "Design of Metastable Phases",
+    "Description": "A general computational package to predict the metastable phase of inorganic materials using the concepts of machine learning, electronic structure methods, and atomistic potentials. The long-term goal of this package is to provide elemental composition as input (e.g. B, HfO2, or Al0.2Cu0.8) and output a set of potential metastable phases, their properties, and their plausible conditions of stability (pressure, temperature, strain profile, etc.).",
+    "link": "www.google.com",
+    "image": "./project-1.png"
+  }
+
+
+
+
+
+]

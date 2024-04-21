@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+
+{
+    "id": "2",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "3",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "3",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "5",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "6",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "7",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  },
+
+{
+    "id": "8",
+    "name": "G. Westfahl, ‘The True Frontier: Confronting and Avoiding the Realities of Space in American Science Fiction Films’, pp. 55–65.",
+    "citation": "Debdas Dhabal, Rajat Kumar, Valeria Molinero, ChemRxiv., (2023).",
+    "link": "www.google.com"
+  }
+
+]
+

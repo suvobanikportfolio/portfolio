@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Manna, S., Loeffler, T. D., Batra, R., Banik, S., Chan, H., Varughese, B., … Others. (2022). Learning in continuous action space for developing high dimensional potential energy models. Nature Communications, 13(1), 368."
+  },
+  {
+    "id": "2",
+    "name": "Dwivedi, N., Balasubramanian, K., Sahu, R., Manna, S., Banik, S., Dhand, C., … Others. (2022). Unusual high hardness and load-dependent mechanical characteristics of hydrogenated carbon--nitrogen hybrid films. ACS Applied Materials & Interfaces, 14(17), 20220–20229."
+  },
+  {
+    "id": "3",
+    "name": "Zhang, H.-T., Park, T. J., Islam, A. N., Tran, D. S. J., Manna, S., Wang, Q., … Others. (2022). Reconfigurable perovskite nickelate electronics for artificial intelligence. Science, 375(6580), 533–539."
+  },
+  {
+    "id": "4",
+    "name": "Pereyaslavets, L., Kamath, G., Butin, O., Illarionov, A., Olevanov, M., Kurnikov, I., … Others. (2022). Accurate determination of solvation free energies of neutral organic compounds from first principles. Nature Communications, 13(1), 414."
+  },
+  {
+    "id": "5",
+    "name": "Banik, S., Loeffler, T. D., Batra, R., Singh, H., Cherukara, M. J., & Sankaranarayanan, S. K. (2021). Learning with delayed rewards—a case study on inverse defect design in 2D materials. ACS Applied Materials & Interfaces, 13(30), 36455–36464."
+  },
+  {
+    "id": "6",
+    "name": "Banik, S., Mirja, A. S., Biswas, N., & Ganguly, R. (2022). Entropy analysis during heat dissipation via thermomagnetic convection in a ferrofluid-filled enclosure. International Communications in Heat and Mass Transfer, 138, 106323."
+  },
+  {
+    "id": "7",
+    "name": "Banik, S., Dhabal, D., Chan, H., Manna, S., Cherukara, M., Molinero, V., & Sankaranarayanan, S. K. (2023). CEGANN: Crystal Edge Graph Attention Neural Network for multiscale classification of materials environment. Npj Computational Materials, 9(1), 23."
+  },
+  {
+    "id": "8",
+    "name": "Zhou, Q., Banik, S., Srinivasan, S., Sankaranarayanan, S., & Darancet, P. (2023). Machine Learning the Electronic Structure of Phase Change Materials. Bulletin of the American Physical Society."
+  },
+  {
+    "id": "9",
+    "name": "Molinero, V., Sankaranarayanan, S., Dhabal, D., Bertolazzo, A., Banik, S., Chan, H., … Manna, S. (2023). Elucidating the mechanisms of synthesis of zeolites using data science and molecular simulation. Bulletin of the American Physical Society."
+  },
+  {
+    "id": "10",
+    "name": "Banik, S., Loefller, T., Manna, S., Chan, H., Srinivasan, S., Darancet, P., … Sankaranarayanan, S. K. (2023). A Continuous Action Space Tree search for INverse desiGn (CASTING) framework for materials discovery. Npj Computational Materials, 9(1), 177."
+  },
+  {
+    "id": "11",
+    "name": "Banik, S., Balasubramanian, K., Manna, S., Derrible, S., & Sankaranarayananan, S. (2023). Evaluating Generalized Feature Importance via Performance Assessment of Machine Learning Models for Predicting Elastic Properties of Materials."
+  },
+  {
+    "id": "12",
+    "name": "Lin, Y., Zhou, T., Rosenmann, N. D., Yu, L., Gage, T. E., Banik, S., … Others. (2023). Surface premelting of ice far below the triple point. Proceedings of the National Academy of Sciences, 120, e2304148120."
+  },
+  {
+    "id": "13",
+    "name": "Desai, S., Banik, S., Wen, H., Sankaranarayanan, S., & Dingreville, R. (2022). Decoding VOx diffraction patterns using machine learning. Doi. Org/10. 2172/2001852."
+  },
+  {
+    "id": "14",
+    "name": "Banik, S., Shriram, S., Sankaranarayanan, S., & Ramanathan, S. (2024). Physics-Driven Modeling of the Metal-Insulator Transition Temperature in W-Doped VO 2 through Symbolic Regression. Bulletin of the American Physical Society."
+  },
+  {
+    "id": "15",
+    "name": "de Almeida Ribeiro, I., Dhabal, D., Banik, S., Neogi, A., Sankaranarayanan, S., & Molinero, V. (2024). What is medium-density amorphous ice? Bulletin of the American Physical Society."
+  },
+  {
+    "id": "16",
+    "name": "Balasubramanian, K., Banik, S., Manna, S., Srinivasan, S., & Sankaranarayanan, S. K. (2024). Learning the stable and metastable phase diagram to accelerate the discovery of metastable phases of boron. APL Machine Learning, 2(1)."
+  }
+]

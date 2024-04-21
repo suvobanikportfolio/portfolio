@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "Heading": "AI driven inverse Design and prediction of nanoscale materials ",
+    "Description": "Bridging Artificial Intelligence/Machine Learning with nanoscale modeling, such as molecular dynamics or density functional theory, can expedite materials discovery across different spatiotemporal scales. RL (Reinforcement Learning)-driven decision trees are effective in exploring complex materials landscapes. This portion of my work dedicates to utilizing these decision trees for the development of autonomous workflows for predicting new phases of materials or tailoring the properties of existing ones.",
+    "link": "www.google.com",
+    "image": "/project-1.png"
+  },
+
+
+  {
+    "id": "2",
+    "Heading": "Learning to characterize materials",
+    "Description": "For any computational materials discovery, characterization of material phases and behavior remains an irrevocable part that can reveal crucial insights on the structure-to-property relations, as well as thermodynamic behavior. This is where I focus, utilizing deep learning architectures such as graph neural networks and traditional descriptors (Structural Fingerprint) to characterize materials, understanding the categorical feature importance dictating structure-to-property quantitative relationships.",
+    "link": "www.google.com",
+    "image": "/project-2.png"
+  },
+
+
+  {
+    "id": "3",
+    "Heading": "Development & validation of atomistic forcefield models",
+    "Description": "Atomistic models, such as force fields, are crucial for any materials discovery, as they provide computationally inexpensive property predictions on par with high-fidelity quantum mechanical models, such as density functional theory. I have worked on developing and validating bond order potentials and polarizable force fields. I am also working on the development of machine learning potentials from ab initio data.",
+    "image": "/project-3.png"
+  },
+
+
+
+
+  {
+    "id": "4",
+    "Heading": "Utilizing coarse-grained atomistic models to understand the thermodynamic and tribological behavior of ICE.",
+    "Description": "In some collaborative works, I have extensively used atomistic simulations to explore nucleation, growth, and phase transition phenomena in ICE. Additionally, I have performed high-throughput atomistic calculations for understanding tribological behavior in ICE.",
+    "link": "www.google.com",
+    "image": "/project-4.png"
+  }
+
+
+
+
+
+]

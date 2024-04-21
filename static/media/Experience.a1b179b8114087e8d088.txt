@@ -1,0 +1,42 @@
+[
+
+{"id":"1",
+"degree":"Battery Materials Simulation Intern (May 2023-Aug 2023)",
+"place":"Schrodinger, Inc., New York, United States.",
+"Advisor":"Advisor: Dr.Garvit Agarwal,Dr.James Stevenson",
+"points":["Worked on the development of an autonomous workflow for high-throughput prediction of ionic conductivity of battery electrolytes using a hybrid QM/MD/Deep Learning model.."]
+
+},
+
+
+{"id":"2",
+"degree":"Graduate Research Assistant (Jan 2020–Present)",
+"place":"University of Illinois at Chicago, Chicago, IL, United States.",
+"Advisor":"Advisor: Dr.Subramanian Sankaranarayanan",
+"points":["Developed a novel multiscale material characterization method, employed reinforcement learning for inverse materials design."]
+
+},
+
+{"id":"3",
+"degree":"Visiting Graduate Student (Jan 2020–Present)",
+"place":"Argonne National Laboratory, Lemont, IL, United States.",
+"Advisor":"Advisor: Dr.Subramanian Sankaranarayanan",
+"points":["Developed CASTING, a platform for materials design and developing efficient electronic property calculations workflow with Machine Learning and tight-binding models."]
+
+},
+
+{"id":"4",
+"degree":"Research Assistant (Jun 2019–Dec 2019)",
+"place":"Advanced Materials Research Lab, Jadavpur University, Kolkata, India.",
+"Advisor":"Advisor: Dr.Ranjan Ganguly",
+"points":["Worked on designing enhanced electronic cooling system using computational fluid dynamics, leading to a publication in a peer-reviewed journal."]
+
+}
+
+
+
+
+
+
+
+]
